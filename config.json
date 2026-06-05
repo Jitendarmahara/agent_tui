@@ -4,6 +4,6 @@
     "claude": "claude-secret-key"
   },
   "selectedmodel": {
-    "model": "gemini"
+    "model": "gemint-5.10"
   }
 }
